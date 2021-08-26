@@ -4,7 +4,7 @@
 
 # 使用方法
 - frida -U -f packagename -l okhttp-sslunpining.js --no-pause
-- frida -UF packagename -l okhttp-sslunpining.js
+- frida -UF -l okhttp-sslunpining.js
 
 # 注意
 
